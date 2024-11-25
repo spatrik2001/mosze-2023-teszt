@@ -28,5 +28,5 @@ int main()
     std::cout << "Atlag: " << atlag << std::endl;
     return 0;
 
-    std::cout << "Véletlenül sem határidő után adom le a házit" << std::endl;
+    std::cout << "Véletlenül sem határidő után adom le a házit (5. feladat aaaa)" << std::endl;
 }
